@@ -44,7 +44,7 @@ export const CollectionLayout = ({ tabs }: Props) => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Mini variant drawer
+            Mini variant drawer after commit
           </Typography>
         </Toolbar>
       </Header>
